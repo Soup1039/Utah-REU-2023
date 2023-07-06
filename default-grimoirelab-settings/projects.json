@@ -1,0 +1,11 @@
+{
+    "grimoirelab": {
+      "meta": {
+        "title": "GrimoireLab"
+      },
+      "git": [
+          "https://github.com/ut-osa/boki-benchmarks",
+	  "https:/github.com/chaoss/grimoirelab-sirmordred  --labels=[example]"
+        ]
+    }
+  }
